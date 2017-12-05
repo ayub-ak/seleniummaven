@@ -1,0 +1,289 @@
+2017-09-05 20:42:57 INFO  Selenium:81 - Closing the browser
+2017-09-10 08:40:46 INFO  Selenium:70 - Getting title of current page
+2017-09-10 08:51:00 INFO  Selenium:73 - Getting title of current page
+2017-09-10 19:46:18 INFO  Selenium:73 - Getting title of current page
+2017-09-10 19:49:42 INFO  Selenium:73 - Getting title of current page
+2017-09-10 19:56:26 INFO  Selenium:62 - Navigating to http://automationpractice.com/index.php
+2017-09-10 20:03:04 INFO  Selenium:62 - Navigating to http://automationpractice.com/index.php
+2017-09-10 20:08:15 INFO  Selenium:62 - Navigating to http://automationpractice.com/index.php
+2017-09-10 20:12:02 INFO  Selenium:62 - Navigating to http://automationpractice.com/index.php
+2017-09-10 20:16:24 INFO  Selenium:62 - Navigating to http://automationpractice.com/index.php
+2017-09-10 23:10:37 INFO  Selenium:63 - Navigating to http://automationpractice.com/index.php
+2017-09-10 23:11:48 INFO  Selenium:48 - Typed Printed dress text
+2017-09-11 09:56:24 INFO  Selenium:63 - Navigating to http://automationpractice.com/index.php
+2017-09-11 09:56:25 INFO  Selenium:48 - Typed Printed dress text
+2017-09-11 09:56:27 INFO  Selenium:30 - WebElement for the locator is clicked
+2017-09-12 20:06:43 INFO  Selenium:62 - Navigating to http://automationpractice.com/index.php
+2017-09-12 20:07:52 INFO  Selenium:62 - Navigating to http://automationpractice.com/index.php
+2017-09-12 20:07:52 INFO  Selenium:47 - Typed Printed dress text
+2017-09-12 20:08:01 INFO  Selenium:29 - WebElement for the locator is clicked
+2017-09-12 20:12:47 INFO  Selenium:62 - Navigating to http://automationpractice.com/index.php
+2017-09-12 20:12:47 INFO  Selenium:47 - Typed Printed dress text
+2017-09-12 20:12:49 INFO  Selenium:29 - WebElement for the locator is clicked
+2017-09-12 20:15:45 INFO  Selenium:62 - Navigating to http://automationpractice.com/index.php
+2017-09-12 20:15:45 INFO  Selenium:47 - Typed Printed dress text
+2017-09-12 20:15:47 INFO  Selenium:29 - WebElement for the locator is clicked
+2017-09-12 20:51:04 INFO  Selenium:62 - Navigating to http://automationpractice.com/index.php
+2017-09-12 20:51:04 INFO  Selenium:47 - Typed Printed dress text
+2017-09-12 20:51:19 INFO  Selenium:62 - Navigating to http://automationpractice.com/index.php
+2017-09-12 20:51:19 INFO  Selenium:47 - Typed Printed dress text
+2017-09-12 20:51:22 INFO  Selenium:29 - WebElement for the locator is clicked
+2017-09-13 20:50:37 INFO  Selenium:79 - Navigating to http://automationpractice.com/index.php
+2017-09-13 20:50:37 INFO  Selenium:64 - Typed Printed dress text
+2017-09-13 20:51:28 INFO  Selenium:30 - Getting locator type : name Getting locator value : submit_search
+2017-09-13 20:51:28 INFO  Selenium:317 - Finding web element using Name for locator : submit_search
+2017-09-13 20:57:45 INFO  Selenium:79 - Navigating to http://automationpractice.com/index.php
+2017-09-13 20:58:26 INFO  Selenium:64 - Typed Printed dress text
+2017-09-13 20:58:38 INFO  Selenium:30 - Getting locator type : name Getting locator value : submit_search
+2017-09-13 20:58:51 INFO  Selenium:317 - Finding web element using Name for locator : submit_search
+2017-09-13 21:03:50 INFO  Selenium:79 - Navigating to http://automationpractice.com/index.php
+2017-09-13 21:03:50 INFO  Selenium:64 - Typed Printed dress text
+2017-09-13 21:03:50 INFO  Selenium:30 - Getting locator type : name Getting locator value : dkdkdkk
+2017-09-13 21:03:50 INFO  Selenium:317 - Finding web element using Name for locator : dkdkdkk
+2017-09-14 20:04:31 INFO  Selenium:79 - Navigating to http://automationpractice.com/index.php
+2017-09-14 20:05:40 INFO  Selenium:68 - Element not found for the locator : searchbox
+2017-09-14 20:06:35 INFO  Selenium:30 - Getting locator type : name Getting locator value : dkdkdkk
+2017-09-14 20:11:33 INFO  Selenium:317 - Finding web element using Name for locator : dkdkdkk
+2017-09-14 20:14:52 INFO  Selenium:79 - Navigating to http://automationpractice.com/index.php
+2017-09-14 20:14:58 INFO  Selenium:64 - Typed Printed dress text
+2017-09-14 20:15:59 INFO  Selenium:30 - Getting locator type : name Getting locator value : dkdkdkk
+2017-09-14 20:17:45 INFO  Selenium:317 - Finding web element using Name for locator : dkdkdkk
+2017-09-14 20:27:40 INFO  Selenium:79 - Navigating to http://automationpractice.com/index.php
+2017-09-14 20:27:40 INFO  Selenium:64 - Typed Printed dress text
+2017-09-14 20:27:40 INFO  Selenium:30 - Getting locator type : class Getting locator value : heading-counter
+2017-09-14 20:27:40 INFO  Selenium:326 - Finding web element using ClassName for locator : heading-counter
+2017-09-14 20:30:24 INFO  Selenium:79 - Navigating to http://automationpractice.com/index.php
+2017-09-14 20:30:24 INFO  Selenium:64 - Typed Printed dress text
+2017-09-14 20:30:24 INFO  Selenium:30 - Getting locator type : name Getting locator value : submit_search
+2017-09-14 20:30:24 INFO  Selenium:317 - Finding web element using Name for locator : submit_search
+2017-09-20 20:47:32 INFO  Selenium:83 - Navigating to http://only-testing-blog.blogspot.in/2013/11/new-test.html
+2017-09-20 20:47:52 INFO  Selenium:34 - Getting locator type : id Getting locator value : submitButton
+2017-09-20 20:48:02 INFO  Selenium:200 - Waiting for webelement to become clickable for the locator type : id locator value : submitButton
+2017-09-20 20:49:52 INFO  Selenium:83 - Navigating to http://only-testing-blog.blogspot.in/2013/11/new-test.html
+2017-09-20 20:49:52 INFO  Selenium:34 - Getting locator type : id Getting locator value : submitButton
+2017-09-20 20:49:52 INFO  Selenium:200 - Waiting for webelement to become clickable for the locator type : id locator value : submitButton
+2017-09-20 20:50:50 INFO  Selenium:83 - Navigating to http://only-testing-blog.blogspot.in/2013/11/new-test.html
+2017-09-20 20:50:50 INFO  Selenium:34 - Getting locator type : id Getting locator value : submitButton
+2017-09-20 20:50:50 INFO  Selenium:200 - Waiting for webelement to become clickable for the locator type : id locator value : submitButton
+2017-09-20 20:59:41 INFO  Selenium:83 - Navigating to http://only-testing-blog.blogspot.in/2013/11/new-test.html
+2017-09-20 20:59:41 INFO  Selenium:34 - Getting locator type : id Getting locator value : submitButton
+2017-09-20 20:59:41 INFO  Selenium:200 - Waiting for webelement to become clickable for the locator type : id locator value : submitButton
+2017-09-20 21:00:42 INFO  Selenium:83 - Navigating to http://only-testing-blog.blogspot.in/2013/11/new-test.html
+2017-09-20 21:00:42 INFO  Selenium:34 - Getting locator type : id Getting locator value : submitButton
+2017-09-20 21:00:42 INFO  Selenium:200 - Waiting for webelement to become clickable for the locator type : id locator value : submitButton
+2017-09-20 21:01:18 INFO  Selenium:83 - Navigating to http://only-testing-blog.blogspot.in/2013/11/new-test.html
+2017-09-20 21:01:25 INFO  Selenium:34 - Getting locator type : id Getting locator value : submitButton
+2017-09-20 21:01:25 INFO  Selenium:200 - Waiting for webelement to become clickable for the locator type : id locator value : submitButton
+2017-09-21 20:16:23 INFO  Selenium:83 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-21 20:16:31 INFO  Selenium:34 - Getting locator type : xpath Getting locator value : //input[@id='text3']
+2017-09-21 20:16:41 INFO  Selenium:372 - Waiting for Element to become visible for the locator type : xpath locator value : //input[@id='text3']
+2017-09-21 20:17:35 INFO  Selenium:83 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-21 20:17:35 INFO  Selenium:34 - Getting locator type : xpath Getting locator value : //input[@id='text3']
+2017-09-21 20:17:35 INFO  Selenium:372 - Waiting for Element to become visible for the locator type : xpath locator value : //input[@id='text3']
+2017-09-21 20:20:15 INFO  Selenium:83 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-21 20:21:01 INFO  Selenium:83 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-21 20:21:01 INFO  Selenium:34 - Getting locator type : xpath Getting locator value : //input[@id='text3']
+2017-09-21 20:21:01 INFO  Selenium:372 - Waiting for Element to become visible for the locator type : xpath locator value : //input[@id='text3']
+2017-09-21 20:43:49 INFO  Selenium:83 - Navigating to http://only-testing-blog.blogspot.in/2014/01/new-testing.html
+2017-09-21 20:46:45 INFO  Selenium:83 - Navigating to http://only-testing-blog.blogspot.in/2014/01/new-testing.html
+2017-09-21 20:47:05 INFO  Selenium:389 - Alert is displayed
+2017-09-21 20:48:59 INFO  Selenium:83 - Navigating to http://only-testing-blog.blogspot.in/2014/01/new-testing.html
+2017-09-21 20:49:08 INFO  Selenium:389 - Alert is displayed
+2017-09-22 17:34:14 INFO  Selenium:83 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-22 17:45:57 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/new-testing.html
+2017-09-22 17:47:32 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/new-testing.html
+2017-09-22 17:47:39 INFO  Selenium:392 - Alert is displayed
+2017-09-22 17:49:15 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/new-testing.html
+2017-09-22 17:50:33 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/new-testing.html
+2017-09-22 17:50:36 INFO  Selenium:392 - Alert is displayed
+2017-09-22 18:00:43 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/new-testing.html
+2017-09-22 18:00:48 INFO  Selenium:392 - Alert is displayed
+2017-09-22 18:00:48 INFO  Selenium:395 - Message displayed on alert box : Now you can click on submit query button!
+2017-09-22 18:02:31 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/new-testing.html
+2017-09-22 18:02:40 INFO  Selenium:392 - Alert is displayed
+2017-09-22 18:02:40 INFO  Selenium:395 - Message displayed on alert box : Now you can click on submit query button!
+2017-09-22 18:02:50 INFO  Selenium:74 - Element not found for the locator : name:fname
+2017-09-22 18:04:43 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/new-testing.html
+2017-09-22 18:04:46 INFO  Selenium:392 - Alert is displayed
+2017-09-22 18:04:46 INFO  Selenium:395 - Message displayed on alert box : Now you can click on submit query button!
+2017-09-22 18:15:11 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/new-testing.html
+2017-09-22 18:15:16 INFO  Selenium:392 - Alert is displayed
+2017-09-22 18:15:16 INFO  Selenium:395 - Message displayed on alert box : Now you can click on submit query button!
+2017-09-22 18:21:40 INFO  Selenium:85 - Navigating to http://automationpractice.com/index.php
+2017-09-22 18:21:40 INFO  Selenium:70 - Typed Printed dress text
+2017-09-22 18:21:42 INFO  Selenium:52 - WebElement for the locator is clicked
+2017-09-22 18:21:42 INFO  Selenium:36 - Getting locator type : class Getting locator value : heading-counter
+2017-09-22 18:21:42 INFO  Selenium:278 - Waiting for text to appear for the locator type : class locator value : heading-counter
+2017-09-22 18:21:42 INFO  Selenium:36 - Getting locator type : class Getting locator value : heading-counter
+2017-09-22 18:21:42 INFO  Selenium:278 - Waiting for text to appear for the locator type : class locator value : heading-counter
+2017-09-22 18:30:53 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/new-testing.html
+2017-09-22 18:31:00 INFO  Selenium:392 - Alert is displayed
+2017-09-22 18:31:00 INFO  Selenium:395 - Message displayed on alert box : Now you can click on submit query button!
+2017-09-22 18:31:00 INFO  Selenium:70 - Typed test text
+2017-09-24 12:43:57 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-24 12:43:58 INFO  Selenium:52 - WebElement for the locator is clicked
+2017-09-24 12:43:58 INFO  Selenium:394 - Alert is displayed
+2017-09-24 12:43:58 INFO  Selenium:397 - Message displayed on alert box : Hi.. This is alert message!
+2017-09-24 12:44:12 INFO  Selenium:401 - Clicked on Ok
+2017-09-24 12:46:58 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-24 12:46:58 INFO  Selenium:52 - WebElement for the locator is clicked
+2017-09-24 12:46:58 INFO  Selenium:394 - Alert is displayed
+2017-09-24 12:46:58 INFO  Selenium:397 - Message displayed on alert box : Press 'OK' or 'Cancel' button!
+2017-09-24 12:47:07 INFO  Selenium:406 - Clicked on Cancel
+2017-09-24 12:58:30 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-24 12:58:31 INFO  Selenium:52 - WebElement for the locator is clicked
+2017-09-24 12:58:31 INFO  Selenium:394 - Alert is displayed
+2017-09-24 12:58:31 INFO  Selenium:397 - Message displayed on alert box : Your Name Please
+2017-09-24 12:58:48 INFO  Selenium:406 - Clicked on Cancel
+2017-09-24 12:59:18 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-24 12:59:19 INFO  Selenium:52 - WebElement for the locator is clicked
+2017-09-24 12:59:19 INFO  Selenium:394 - Alert is displayed
+2017-09-24 12:59:19 INFO  Selenium:397 - Message displayed on alert box : Your Name Please
+2017-09-24 12:59:29 INFO  Selenium:411 - Typed the input : test
+2017-09-24 13:01:15 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-24 13:01:15 INFO  Selenium:52 - WebElement for the locator is clicked
+2017-09-24 13:01:15 INFO  Selenium:394 - Alert is displayed
+2017-09-24 13:01:15 INFO  Selenium:397 - Message displayed on alert box : Your Name Please
+2017-09-24 13:01:25 INFO  Selenium:411 - Typed the input : test
+2017-09-25 20:35:48 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-25 20:35:48 INFO  Selenium:52 - WebElement for the locator is clicked
+2017-09-25 20:35:48 INFO  Selenium:394 - Alert is displayed
+2017-09-25 20:35:48 INFO  Selenium:397 - Message displayed on alert box : Your Name Please
+2017-09-25 20:35:48 INFO  Selenium:411 - Typed the input : test
+2017-09-25 20:36:23 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-25 20:36:23 INFO  Selenium:52 - WebElement for the locator is clicked
+2017-09-25 20:36:23 INFO  Selenium:394 - Alert is displayed
+2017-09-25 20:36:23 INFO  Selenium:397 - Message displayed on alert box : Your Name Please
+2017-09-25 20:36:23 INFO  Selenium:411 - Typed the input : test
+2017-09-25 20:37:35 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-25 20:37:56 INFO  Selenium:417 - Exception thrown : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'LAPTOP-ST268433', ip: '192.168.20.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:37302/, ignoreZoomSetting=false, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=false}, browserName=internet explorer, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: 3943126b-df34-4084-96e4-538b3914b571
+2017-09-25 20:38:14 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-25 20:38:35 INFO  Selenium:417 - Exception thrown : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 MILLISECONDS interval)
+2017-09-25 20:39:02 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-25 20:39:23 INFO  Selenium:417 - Exception thrown : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 MILLISECONDS interval)
+2017-09-25 20:40:08 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-25 20:40:08 INFO  Selenium:52 - WebElement for the locator is clicked
+2017-09-25 20:40:08 INFO  Selenium:394 - Alert is displayed
+2017-09-25 20:40:08 INFO  Selenium:397 - Message displayed on alert box : Your Name Please
+2017-09-25 20:40:08 INFO  Selenium:411 - Typed the input : test
+2017-09-25 20:41:07 INFO  Selenium:85 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-25 20:41:07 INFO  Selenium:52 - WebElement for the locator is clicked
+2017-09-25 20:41:07 INFO  Selenium:394 - Alert is displayed
+2017-09-25 20:41:07 INFO  Selenium:397 - Message displayed on alert box : Your Name Please
+2017-09-25 20:41:07 INFO  Selenium:411 - Typed the input : test
+2017-09-26 20:56:09 INFO  Selenium:105 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-26 20:56:09 INFO  Selenium:558 - Getting dropdown/listbox WebElement
+2017-09-26 20:56:10 INFO  Selenium:572 - Selecting an option using visible text : Audi
+2017-09-26 21:09:38 INFO  Selenium:105 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-26 21:09:38 INFO  Selenium:559 - Getting dropdown/listbox WebElement
+2017-09-26 21:09:38 INFO  Selenium:573 - Selecting an option using visible text : Germany
+2017-09-26 21:20:18 INFO  Selenium:105 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-26 21:20:18 INFO  Selenium:559 - Getting dropdown/listbox WebElement
+2017-09-26 21:20:19 INFO  Selenium:573 - Selecting an option using visible text : Germanyy
+2017-09-26 23:22:41 INFO  Selenium:105 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-26 23:22:41 INFO  Selenium:561 - Getting dropdown/listbox WebElement
+2017-09-26 23:22:41 INFO  Selenium:575 - Selecting an option using visible text : Germanyy
+2017-09-26 23:22:51 INFO  Selenium:582 - Exception thrown : org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Germanyy
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'LAPTOP-ST268433', ip: '192.168.20.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: driver.version: unknown
+2017-09-27 20:04:08 INFO  Selenium:105 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-27 20:04:08 INFO  Selenium:561 - Getting dropdown/listbox WebElement
+2017-09-27 20:04:08 INFO  Selenium:575 - Selecting an option using visible text : Germany
+2017-09-27 20:04:08 INFO  Selenium:608 - Is multiple selection supported : true
+2017-09-27 20:14:34 INFO  Selenium:105 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-27 20:14:34 INFO  Selenium:561 - Getting dropdown/listbox WebElement
+2017-09-27 20:14:34 INFO  Selenium:575 - Selecting an option using visible text : Germany
+2017-09-27 20:14:34 INFO  Selenium:610 - Is multiple selection supported : true
+2017-09-27 20:24:29 INFO  Selenium:105 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-27 20:24:29 INFO  Selenium:561 - Getting dropdown/listbox WebElement
+2017-09-27 20:24:29 INFO  Selenium:575 - Selecting an option using visible text : Germany
+2017-09-27 20:24:30 INFO  Selenium:596 - Deselecting all the options from Listbox/Dropdown
+2017-09-27 20:55:59 INFO  Selenium:105 - Navigating to http://only-testing-blog.blogspot.in/2014/01/textbox.html
+2017-09-27 20:55:59 INFO  Selenium:561 - Getting dropdown/listbox WebElement
+2017-09-27 20:55:59 INFO  Selenium:575 - Selecting an option using visible text : Germany
+2017-09-27 20:55:59 INFO  Selenium:599 - Getting dropdown/listbox WebElement
+2017-09-27 20:55:59 INFO  Selenium:615 - Deselecting an option using visible text
+2017-11-10 18:44:50 INFO  test:14 - Test msg
+2017-11-14 20:36:12 INFO  test:17 - Test msg
+2017-11-14 20:37:02 INFO  test:17 - Test msg
+2017-11-14 20:37:21 INFO  test:17 - Test msg
+2017-11-14 20:46:22 INFO  test:17 - Test msg
+2017-11-14 20:51:29 INFO  test:17 - Test msg
+2017-11-15 19:15:39 INFO  test:17 - Test msg 1
+2017-11-15 19:16:56 INFO  test:17 - Test msg 1
+2017-11-16 19:48:39 INFO  Search:30 - Loading the properties
+2017-11-16 19:51:51 INFO  Selenium:161 - Navigating to http://automationpractice.com/index.php
+2017-11-16 20:16:04 INFO  Search:30 - Loading the properties
+2017-11-16 20:16:23 INFO  Selenium:133 - Navigating to http://automationpractice.com/index.php
+2017-11-16 20:16:27 INFO  Selenium:81 - WebElement for the locator is clicked
+2017-11-17 09:18:14 INFO  TestBase:77 - Execution starts
+2017-11-17 09:18:18 INFO  TestBase:83 - Loading config.properties
+2017-11-17 09:19:28 INFO  TestBase:89 - Loading homepage.properties
+2017-11-20 20:47:21 INFO  TestBase:77 - Execution starts
+2017-11-20 20:47:23 INFO  TestBase:83 - Loading config.properties
+2017-11-20 20:47:27 INFO  TestBase:89 - Loading homepage.properties
+2017-11-20 20:47:29 INFO  Search:30 - Loading the properties
+2017-11-22 19:53:49 INFO  TestBase:77 - Execution starts
+2017-11-22 19:53:49 INFO  TestBase:83 - Loading config.properties
+2017-11-22 19:53:49 INFO  TestBase:89 - Loading objectrepository.properties
+2017-11-22 19:55:09 INFO  TestBase:43 - Launching Firefox browser
+2017-11-22 19:55:56 INFO  Selenium:133 - Navigating to http://automationpractice.com/index.php
+2017-11-22 19:56:10 INFO  Selenium:81 - WebElement for the locator is clicked
+2017-11-22 19:56:18 INFO  Selenium:108 - Typed ayub.ak@gmail.com text
+2017-11-22 19:56:20 INFO  Selenium:108 - Typed abc123 text
+2017-11-22 19:56:26 INFO  Selenium:81 - WebElement for the locator is clicked
+2017-11-22 20:11:24 INFO  TestBase:77 - Execution starts
+2017-11-22 20:11:24 INFO  TestBase:83 - Loading config.properties
+2017-11-22 20:11:24 INFO  TestBase:89 - Loading objectrepository.properties
+2017-11-22 20:11:30 INFO  TestBase:43 - Launching Firefox browser
+2017-11-22 20:11:41 INFO  Selenium:133 - Navigating to http://automationpractice.com/index.php
+2017-11-22 20:11:45 INFO  Selenium:81 - WebElement for the locator is clicked
+2017-11-22 20:11:45 INFO  Selenium:108 - Typed ayub.ak@gmail.com text
+2017-11-22 20:11:45 INFO  Selenium:108 - Typed abc123 text
+2017-11-22 20:11:48 INFO  Selenium:81 - WebElement for the locator is clicked
+2017-11-23 10:43:02 INFO  TestBase:77 - Execution starts
+2017-11-23 10:43:02 INFO  TestBase:83 - Loading config.properties
+2017-11-23 10:43:02 INFO  TestBase:89 - Loading objectrepository.properties
+2017-11-23 10:43:03 INFO  Search:32 - Loading the properties
+2017-11-23 20:53:52 INFO  TestBase:77 - Execution starts
+2017-11-23 20:53:52 INFO  TestBase:83 - Loading config.properties
+2017-11-23 20:53:52 INFO  TestBase:89 - Loading objectrepository.properties
+2017-11-23 20:53:58 INFO  Search:32 - Loading the properties
+2017-11-23 21:01:06 INFO  TestBase:77 - Execution starts
+2017-11-23 21:01:06 INFO  TestBase:83 - Loading config.properties
+2017-11-23 21:01:06 INFO  TestBase:89 - Loading objectrepository.properties
+2017-11-23 21:01:07 INFO  Search:32 - Loading the properties
+2017-11-23 21:05:16 INFO  TestBase:77 - Execution starts
+2017-11-23 21:05:16 INFO  TestBase:83 - Loading config.properties
+2017-11-23 21:05:16 INFO  TestBase:89 - Loading objectrepository.properties
+2017-11-23 21:05:16 INFO  Search:32 - Loading the properties
+2017-11-23 21:55:16 INFO  TestBase:77 - Execution starts
+2017-11-23 21:55:16 INFO  TestBase:83 - Loading config.properties
+2017-11-23 21:55:16 INFO  TestBase:89 - Loading objectrepository.properties
+2017-11-23 21:55:17 INFO  Search:32 - Loading the properties
+2017-11-23 21:56:30 INFO  TestBase:43 - Launching Firefox browser
+2017-11-23 21:56:41 INFO  Selenium:262 - Implicit wait is called
+2017-11-23 21:56:46 INFO  Selenium:278 - Setting page loading timeout
+2017-11-27 20:52:10 INFO  TestBase:83 - Execution starts
+2017-11-27 20:52:10 INFO  TestBase:89 - Loading config.properties
+2017-11-27 20:52:10 INFO  TestBase:95 - Loading objectrepository.properties
+2017-11-27 20:52:27 INFO  Search:32 - Loading the properties
+2017-11-27 20:54:16 INFO  TestBase:49 - Launching Firefox browser
+2017-11-27 20:54:23 INFO  Selenium:262 - Implicit wait is called
+2017-11-27 20:54:28 INFO  Selenium:278 - Setting page loading timeout
+2017-11-27 20:55:14 INFO  Selenium:133 - Navigating to http://automationpractice.com/index.php
+2017-11-27 20:55:15 INFO  Selenium:108 - Typed Printed dress text
+2017-11-27 20:55:15 INFO  AppSpecificFns:43 - Searching for Printed dress
+2017-11-27 20:55:18 INFO  Selenium:81 - WebElement for the locator is clicked
+2017-11-27 20:55:18 INFO  Selenium:55 - Getting locator type : class Getting locator value : heading-counter
+2017-11-27 20:55:18 INFO  Selenium:511 - Waiting for text to appear for the locator type : class locator value : heading-counter
+2017-11-27 20:55:18 INFO  Search:51 - Results Label WebElement appearance status : true
+2017-11-27 20:55:18 INFO  Selenium:55 - Getting locator type : class Getting locator value : heading-counter
+2017-11-27 20:55:18 INFO  Selenium:511 - Waiting for text to appear for the locator type : class locator value : heading-counter

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="380672" started-at="2017-11-27T15:21:50Z" finished-at="2017-11-27T15:28:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="380672" started-at="2017-11-27T15:21:50Z" finished-at="2017-11-27T15:28:11Z">
+      <class name="com.seleniummaven.search.Search">
+        <test-method status="PASS" signature="loadProperties()[pri:0, instance:com.seleniummaven.search.Search@7c7a06ec]" name="loadProperties" is-config="true" duration-ms="58802" started-at="2017-11-27T20:51:50Z" finished-at="2017-11-27T20:52:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadProperties -->
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:com.seleniummaven.search.Search@7c7a06ec]" name="browserLaunch" is-config="true" duration-ms="127766" started-at="2017-11-27T20:52:52Z" finished-at="2017-11-27T20:55:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="validateSearch()[pri:0, instance:com.seleniummaven.search.Search@7c7a06ec]" name="validateSearch" duration-ms="189731" started-at="2017-11-27T20:55:01Z" finished-at="2017-11-27T20:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearch -->
+        <test-method status="PASS" signature="tearUp()[pri:0, instance:com.seleniummaven.search.Search@7c7a06ec]" name="tearUp" is-config="true" duration-ms="3" started-at="2017-11-27T20:58:11Z" finished-at="2017-11-27T20:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+      </class> <!-- com.seleniummaven.search.Search -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
